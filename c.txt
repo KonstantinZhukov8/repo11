@@ -1,0 +1,14 @@
+$Recycle.Bin		     Users
+$WinREAgent		     WCH.CN
+Documents\ and\ Settings     Windows
+DumpStack.log.tmp	     WiresharkPortable64
+Intel			     WiresharkPortable64_3.6.2.paf.exe
+KingsoftData		     appverifUI.dll
+Microsoft		     hiberfil.sys
+PABCWork.NET		     logisim-win-2.7.1.exe
+PerfLogs		     pagefile.sys
+Program\ Files		     relocate.xml
+Program\ Files\ (x86)	     swapfile.sys
+ProgramData		     vfcompat.dll
+Recovery		     практика\ 9
+System\ Volume\ Information
